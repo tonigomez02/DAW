@@ -1,0 +1,21 @@
+h4{
+    font-weight: bolder;
+}
+
+a:hover{
+    color: green;
+}
+
+a:focus{
+    color: orange;
+}
+
+p.important{
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    text-decoration: underline;
+}
+body{
+    background-color: #FCF3CF;
+}

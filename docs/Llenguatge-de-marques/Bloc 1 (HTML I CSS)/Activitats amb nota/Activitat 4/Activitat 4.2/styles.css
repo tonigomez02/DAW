@@ -1,0 +1,30 @@
+*{
+     font: Arial, Helvetica, sans-serif; 
+}
+
+p{
+    color: #555;
+}
+
+#un{
+     text: blue;
+}
+
+a{
+    color: #CC3300; 
+}
+
+#un em{
+    background: #FFFFCC; 
+    padding: .1em;
+}
+
+em.especial{
+    background: #FFCC99; 
+    border: 1px solid #FF9900; 
+    padding: .1em; 
+}
+
+.normal span{
+    font-weight: bold;
+}
